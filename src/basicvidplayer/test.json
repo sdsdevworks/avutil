@@ -2,25 +2,25 @@
     {
         "name": "Big Buckey",
         "description": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\n\nLicensed under the Creative Commons Attribution license\nhttp://www.bigbuckbunny.org",
-        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "videoURL": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
         "runtime": "00:09:56"
     },
     {
         "name": "Elephants Dream",
         "description": "The first Blender Open Movie from 2006",
-        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+        "videoURL": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
         "runtime": "00:10:53"
     },
     {
         "name": "Subaru Outback On Street And Dirt",
         "description": "Smoking Tire takes the all-new Subaru Outback to the highest point we can find in hopes our customer-appreciation Balloon Launch will get some free T-shirts into the hands of our viewers.",
-        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+        "videoURL": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
         "runtime": "00:9:54"
     },
        {
         "name": "Video X",
         "description": "Description for Video X",
-        "url": "https://example.com/video10.mp4",
+        "videoURL": "https://example.com/video10.mp4",
         "runtime": "00:00:00"
     }
 ]
