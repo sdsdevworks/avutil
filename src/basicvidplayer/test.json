@@ -2,7 +2,7 @@
     {
         "name": "Video 1",
         "description": "Description for Video 1",
-        "url": "https://example.com/video1.mp4",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
         "runtime": "00:05:30"
     },
     {
