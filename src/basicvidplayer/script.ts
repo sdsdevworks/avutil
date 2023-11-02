@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     const loadJsonButton = document.getElementById("load-json-button") as HTMLButtonElement;
     const jsonList = document.getElementById("json-list") as HTMLUListElement;
-    const jsonUrl = "https://example.com/your-json-file.json"; // Replace with your JSON URL
+    const jsonUrl = "https://raw.githubusercontent.com/sdsdevworks/avutil/main/src/basicvidplayer/test.json"; // Replace with your JSON URL
 
     loadJsonButton.addEventListener("click", () => {
         fetch(jsonUrl)
