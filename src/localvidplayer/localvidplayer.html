@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Local Video Player</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <!--    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>  -->
+    <script src='dist/main.js'></script>
+</head>
+<body onload="initializePlayer()">
+    <h1>Local Video Player</h1>
+    <div id="video-container">
+    </div>
+    <div id="controls-container">
+        <h2>CONTROLS</h2>
+        <input type="checkbox" id="loop-check" name="loop-check" value="loop"/>
+        <label for="loop-check">loop videos</label><br/>
+        <button id="prev-button">&#11160; Previous</button>
+        <button id="next-button">Next &#11162;</button>
+    </div>
+    <div id="playlist-container">
+        <h2>PLAYLIST</h2>
+        <span>click on video to play</span>
+        <ul id="playlist"></ul>
+    </div>
+</body>
+</html>
+</html>
